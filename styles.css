@@ -12,9 +12,6 @@ aside > video {
     width: 100%;
     height: auto;
 }
-.carousel-item > img {
-    opacity: 0.5;
-}
 .card {
     height: 100%;
 }
