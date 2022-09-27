@@ -5,13 +5,15 @@
 .retrofont {
     font-family: retrofont;
 }
+aside {
+    background-image: url(images/textures/bricks.png);
+}
+aside > video {
+    width: 100%;
+    height: auto;
+}
 .carousel-item > img {
     opacity: 0.5;
-}
-@media screen and (max-width: 1024px) {
-    .carousel-caption {
-        font-size: x-small;
-    }
 }
 .card {
     height: 100%;
