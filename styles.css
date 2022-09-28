@@ -27,3 +27,8 @@ aside > video {
         width: 50%;
     }
 }
+@media screen and (max-width: 767px){
+    .mobile-center {
+        text-align: center;
+    }
+}
